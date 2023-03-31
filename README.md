@@ -8,7 +8,7 @@
 
 
 
-##### 欢迎在issue中提出更多需求，求star，求pr（完善内容，添加新信息），这真的很重要！！！
+### 欢迎在issue中提出更多需求，求star，求pr（完善内容，添加新信息），这真的很重要！！！
 
 
 
@@ -186,10 +186,10 @@ AIGC+社交：利用AIGC技术生成虚拟的社交对象，如数字人、宠�
 
 知乎  
 
-- [ChatGPT 有哪些神奇的使用方式？](https://www.zhihu.com/question/570729170)[1](https://www.zhihu.com/question/570729170) 这个问题有很多有趣的回答，展示了chatgpt在写诗、写邮件、知识搜索等方面的能力，还有一些人尝试用emoji或者其他语言来迷惑chatgpt。
-- [如何评价 OpenAI 的超级对话模型 ChatGPT ？](https://www.zhihu.com/question/570189639)[2](https://www.zhihu.com/question/570189639) 这个问题有很多专业的回答，分析了chatgpt的技术原理、优势、局限和应用场景，还有一些人分享了自己与chatgpt交流的经历和感受。
-- [ChatGPT 桌面应用带给你全新的体验](https://zhuanlan.zhihu.com/p/592565042)[3](https://zhuanlan.zhihu.com/p/592565042) 这个文章介绍了一个基于chatgpt的桌面应用，可以让用户通过快捷指令来控制chatgpt的行为，比如生成故事、写作文、做数学题等。
-- [ChatGPT应用场景汇总](https://zhuanlan.zhihu.com/p/595942372)[4](https://zhuanlan.zhihu.com/p/595942372) 这个文章汇总了一些基于chatgpt的二次开发创业项目，比如聊天机器人、智能客服、智能写作等。
+- [ChatGPT 有哪些神奇的使用方式？](https://www.zhihu.com/question/570729170) 这个问题有很多有趣的回答，展示了chatgpt在写诗、写邮件、知识搜索等方面的能力，还有一些人尝试用emoji或者其他语言来迷惑chatgpt。
+- [如何评价 OpenAI 的超级对话模型 ChatGPT ？](https://www.zhihu.com/question/570189639) 这个问题有很多专业的回答，分析了chatgpt的技术原理、优势、局限和应用场景，还有一些人分享了自己与chatgpt交流的经历和感受。
+- [ChatGPT 桌面应用带给你全新的体验](https://zhuanlan.zhihu.com/p/592565042) 这个文章介绍了一个基于chatgpt的桌面应用，可以让用户通过快捷指令来控制chatgpt的行为，比如生成故事、写作文、做数学题等。
+- [ChatGPT应用场景汇总](https://zhuanlan.zhihu.com/p/595942372) 这个文章汇总了一些基于chatgpt的二次开发创业项目，比如聊天机器人、智能客服、智能写作等。
 - ChatGPT 有哪些不足之处？ - 知乎 这个问题有很多客观的回答，指出了chatgpt在逻辑一致性、知识覆盖、安全性等方面的不足之处，还有一些人提出了改进的建议和方向。
 - ChatGPT 有哪些有趣的彩蛋？ - 知乎 这个问题有很多有趣的回答，展示了chatgpt在回答一些特定的问题或者指令时会出现的彩蛋，比如说自我介绍、唱歌、讲笑话等。
 
@@ -207,17 +207,17 @@ B站 YouTube搜索即可   给出几个典型的
 
 ### 行业研究报告及信息类
 
-**《人工智能生成内容（AIGC）白皮书（2022年）》**，作者是中国信通院，网址是http://www.caict.ac.cn/sytj/202209/t20220913_408835.htm。白皮书跟踪梳理了人工智能生成内容的发展演进，重点从技术、应用、治理等维度对人工智能生成内容进行了分析，并从政府、行业、企业、社会等层面，给出了我国发展和治理人工智能生成内容（aigc）的建议。
+**《人工智能生成内容（AIGC）白皮书（2022年）》**，作者是中国信通院，网址是http://www.caict.ac.cn/sytj/202209/t20220913_408835.htm 白皮书跟踪梳理了人工智能生成内容的发展演进，重点从技术、应用、治理等维度对人工智能生成内容进行了分析，并从政府、行业、企业、社会等层面，给出了我国发展和治理人工智能生成内容（aigc）的建议。
 
-**《AIGC发展趋势报告2023：迎接人工智能的下一个时代》**，作者是腾讯研究院，网址是https://zhuanlan.zhihu.com/p/602547412。报告从技术发展和产业生态、应用趋势、治理挑战等维度，对AIGC的发展趋势进行了深入思考。报告认为AIGC技术和产业生态迎来发展快车道，AIGC在消费互联网、产业互联网和社会价值领域持续产生变革性影响，AIGC治理面临多方面挑战和机遇。
+**《AIGC发展趋势报告2023：迎接人工智能的下一个时代》**，作者是腾讯研究院，网址是https://zhuanlan.zhihu.com/p/602547412 报告从技术发展和产业生态、应用趋势、治理挑战等维度，对AIGC的发展趋势进行了深入思考。报告认为AIGC技术和产业生态迎来发展快车道，AIGC在消费互联网、产业互联网和社会价值领域持续产生变革性影响，AIGC治理面临多方面挑战和机遇。
 
-**《AIGC：内容生产力的革命》**，作者是国海证券，网址是https://new.qq.com/rain/a/20230206A02JU600。该报告是国海证券Web3.0系列专题研究报告之一，报告内容包括AI行业规模现状、AIGC发展历程与技术应用场景展望等多个维度。报告指出AIGC将成为新型的内容生产基础设施，塑造数字内容生产与交互新范式，持续推进数字文化产业创新。
+**《AIGC：内容生产力的革命》**，作者是国海证券，网址是https://new.qq.com/rain/a/20230206A02JU600 该报告是国海证券Web3.0系列专题研究报告之一，报告内容包括AI行业规模现状、AIGC发展历程与技术应用场景展望等多个维度。报告指出AIGC将成为新型的内容生产基础设施，塑造数字内容生产与交互新范式，持续推进数字文化产业创新。
 
-**《AIGC (AI Generated Content) Market - In-Depth Insights & Analysis》**，作者是Market Monitor Global，网址是https://www.imrmarketreports.com/reports/aigc-ai-generated-content-market/。该报告提供了全球AIGC市场的规模、增长、趋势、机会、挑战、主要参与者等方面的数据和分析，涵盖了AIGC的解决方案、服务、应用和区域细分。
-**《艾媒咨询｜2023年中国AIGC行业发展研究报告》**，作者是艾媒咨询，网址是https://www.iimedia.cn/c400/92537.html。该报告分析了中国AIGC行业的定义、发展历程、市场规模、应用场景、发展趋势、竞争格局等方面的信息，为AIGC行业的投资者、从业者和监管者提供参考。
-**《Global AIGC Technology Market Research Report 2023》**，作者是ReportsnReports，网址是https://www.reportsnreports.com/reports/6728864-global-aigc-technology-market-research-report-2023.html。该报告提供了全球AIGC技术市场的综合分析，包括市场概况、市场动力、市场细分、区域分析、竞争情况等内容，以及对AIGC技术的未来发展方向和商业机会的展望。
+**《AIGC (AI Generated Content) Market - In-Depth Insights & Analysis》**，作者是Market Monitor Global，网址是https://www.imrmarketreports.com/reports/aigc-ai-generated-content-market/ 该报告提供了全球AIGC市场的规模、增长、趋势、机会、挑战、主要参与者等方面的数据和分析，涵盖了AIGC的解决方案、服务、应用和区域细分。
+**《艾媒咨询｜2023年中国AIGC行业发展研究报告》**，作者是艾媒咨询，网址是https://www.iimedia.cn/c400/92537.html 该报告分析了中国AIGC行业的定义、发展历程、市场规模、应用场景、发展趋势、竞争格局等方面的信息，为AIGC行业的投资者、从业者和监管者提供参考。
+**《Global AIGC Technology Market Research Report 2023》**，作者是ReportsnReports，网址是https://www.reportsnreports.com/reports/6728864-global-aigc-technology-market-research-report-2023.html 该报告提供了全球AIGC技术市场的综合分析，包括市场概况、市场动力、市场细分、区域分析、竞争情况等内容，以及对AIGC技术的未来发展方向和商业机会的展望。
 
-**《Which Jobs Will AI Replace? These 4 Industries Will Be Heavily Impacted》**，作者是福布斯杂志的Arianna Johnson，网址是https://www.forbes.com/sites/ariannajohnson/2023/03/30/which-jobs-will-ai-replace-these-4-industries-will-be-heavily-impacted/。该报告是一篇关于AIGC技术对就业市场影响的文章，引用了高盛的一份研究报告，估计有3亿个工作岗位可能受到AIGC技术的影响，占全球工作岗位的18%，其中发达经济体受到的影响更大。文章分析了AIGC技术将对教育、媒体、金融和法律等四个行业造成重大影响，并给出了一些应对建议。
+**《Which Jobs Will AI Replace? These 4 Industries Will Be Heavily Impacted》**，作者是福布斯杂志的Arianna Johnson，网址是https://www.forbes.com/sites/ariannajohnson/2023/03/30/which-jobs-will-ai-replace-these-4-industries-will-be-heavily-impacted/ 该报告是一篇关于AIGC技术对就业市场影响的文章，引用了高盛的一份研究报告，估计有3亿个工作岗位可能受到AIGC技术的影响，占全球工作岗位的18%，其中发达经济体受到的影响更大。文章分析了AIGC技术将对教育、媒体、金融和法律等四个行业造成重大影响，并给出了一些应对建议。
 
 ### 论文类
 
