@@ -38,6 +38,9 @@
 
 ## 轻松尝鲜
 
+#### AI 团队桌面应用 [Orkas](https://orkas.ai/?source=gh_gilgamesh)
+
+开源、本地优先的 AI 团队桌面应用，由 Commander 通过一个对话协调专业 Agent 完成复杂工作。
 #### 笔记软件文字通用  notion AI    https://www.notion.so/product/ai
 
 国内可以直接使用，可以完成几个任务换付费时间。
