@@ -38,6 +38,11 @@
 
 ## 轻松尝鲜
 
+#### 文档解析与翻译 Doc2X https://doc2x.noedgeai.com/
+
+NoEdgeAI 推出的 AI 文档工具，可将 PDF、扫描件和图片解析为 Word、Markdown、LaTeX，识别数学公式与表格，支持文档翻译，并提供开发者 API。国内网页版需账号，提供有限免费用量和付费升级；API 独立按页计费。以上按官方公开资料介绍，未声称个人实测或效率指标。
+
+
 #### 笔记软件文字通用  notion AI    https://www.notion.so/product/ai
 
 国内可以直接使用，可以完成几个任务换付费时间。
