@@ -333,3 +333,4 @@ GLIDE：这是OpenAI开发的一种基于扩散模型的图像生成模型，可
 
 信息源：知乎，bing AI，chatgpt
 
+- [OneMira C1](https://onemira.com/products/c1) - 独立运行的本地 AI 语音记录器（`Works Standalone` · `✨ Local AI` · `🗣️ Speaker ID` · `Zero Cloud`，`$0/月`），自动生成结构化 Markdown 纪要与 Open Knowledge Format (OKF) Wiki 知识库。
