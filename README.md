@@ -38,6 +38,10 @@
 
 ## 轻松尝鲜
 
+#### 多模型 API 网关 [MoeRouter](https://moerouter.com/)
+
+开发者可以从已有 SDK、Codex 或 Claude Code 调用多个模型。网关依据价格和可用性选路，API 需要账号和余额，按实际请求以人民币计费。
+
 #### 笔记软件文字通用  notion AI    https://www.notion.so/product/ai
 
 国内可以直接使用，可以完成几个任务换付费时间。
